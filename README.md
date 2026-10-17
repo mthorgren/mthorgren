@@ -10,8 +10,8 @@ For business inquiries: [linkedin profile](www.linkedin.com/in/mathiasthorgren)
 
 
 ## School Projects (MIUN)
-* **m1 html** - [published site](https://t7horns.github.io/tT-webbutveckling-m1/) | [repo](https://github.com/t7horns/tT-webbutveckling-m1) - Built a simple webpage using HTML.
-* **m2 version-control, publishing and presentation** - [published site](https://t7horns.github.io/tT-webbutveckling-m2/) | [repo](https://github.com/t7horns/tT-webbutveckling-m2) - Demonstrate good practices for version control, website publishing, and presentation structure.
+* **m1 html** - [published site](https://mthorgren.github.io/tT-webbutveckling-m1/) | [repo](https://github.com/t7horns/tT-webbutveckling-m1) - Built a simple webpage using HTML.
+* **m2 version-control, publishing and presentation** - [published site](https://mthorgren.github.io/tT-webbutveckling-m2/) | [repo](https://github.com/mthorgren/tT-webbutveckling-m2) - Demonstrate good practices for version control, website publishing, and presentation structure.
 
 ## Personal Project backlog
 * **home-inventory** - *Mobile application for tracking items across a home/site. The app to seemlessly answer the constant question: "Where the f- did I place my ----"*
