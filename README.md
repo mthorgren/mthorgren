@@ -6,7 +6,7 @@ Hi! I am studying web development at Mid Sweden University (MIUN) while building
 
 I have a professional background in networks, IT/cybersecurity, and software development. I enjoy ad-hoc building local utility scripts, automation tools, and applications. I will be actively publishing my projects and sharing my portfolio here.
 
-For business inquiries: [linkedin profile](www.linkedin.com/in/mathiasthorgren)
+For business inquiries: [linkedin profile](www.linkedin.com/in/mthorgren)
 
 
 ## School Projects (MIUN)
